@@ -1,0 +1,21 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.table-select {
+  width: 100%;
+}
+
+.td-edit-table tr td {
+  padding: 0;
+}
+
+.td-edit-td {
+  display: flex;
+}
+
+.td-col {
+  padding: 0 !important;
+}
